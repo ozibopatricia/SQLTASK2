@@ -29,7 +29,7 @@ Change the DATA_TYPE of the IDs in both tables
 
 ![](EMPLOYEEINFO(MONTHONLY).PNG)
 
-![](EMPLOYEEINFO)
+![](EMPLOYEEINFO(YEARONLY).PNG)
 
 -Run a query to add 10 years to the year employees came into the company as YEAR_OF_EXIT
 
