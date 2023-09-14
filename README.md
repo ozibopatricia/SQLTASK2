@@ -23,7 +23,21 @@
 Change the DATA_TYPE of the IDs in both tables 
 
 
-R
+-Run a query to return the YEAR, MONTH and DAY each employee came into the company
+
+![](EMPLOYEEINFO(DAY0NLY).PNG)
+
+![](EMPLOYEEINFO(MONTHONLY).PNG)
+
+!
+
+-Run a query to add 10 years to the year employees came into the company as YEAR_OF_EXIT
+
+![](EMPLOYEEINFO(10YEARSTOYEAROFEXITCOLUMN).PNG)
+
+-
+
+
 
  
 
