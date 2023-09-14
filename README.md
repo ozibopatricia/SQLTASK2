@@ -1,3 +1,30 @@
 # SQL-TASK2
 ## PROBLEM STATEMENT
 - Rename the previous name EMPLOYEE_INFO and EMPLOYEE_SALARY respectively
+
+![](STAFFSALARYEMPLOYEESALARY.PNG)
+
+![](STAFFINFOTOEMPLOYEEINFO.PNG)
+
+- Change the ID COLUMN to EMPLOYEE_ID on both columns
+
+![](EMPLOYEEINFO(IDCOLUMNTOEMPLOYEEID).PNG)
+
+- Create new column in the EMPLOYEE_SALARY table named DEPARTMENT
+
+![](EMPLOYEESALARYCOLUMN(DEPARTMENT).PNG)
+
+-For employees with the following IDs (1, 3, 7), IT
+ IDs (2,5,9) ADVERTISING
+ IDs (4,6,8,10) COMMUNICATIONS
+
+ ![](EMPLOYEESALARYDEPT(ITADVERTISING,COMMUNICATIONS).PNG)
+
+Change the DATA_TYPE of the IDs in both tables 
+
+
+R
+
+ 
+
+
