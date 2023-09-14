@@ -35,7 +35,7 @@ Change the DATA_TYPE of the IDs in both tables
 
 ![](EMPLOYEEINFO(10YEARSTOYEAROFEXITCOLUMN).PNG)
 
-
+UP
 
 
  
