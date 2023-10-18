@@ -20,8 +20,11 @@
 
  ![](EMPLOYEESALARYDEPT(ITADVERTISING,COMMUNICATIONS).PNG)
 
-Change the DATA_TYPE of the IDs in both tables 
+Change the DATA_TYPE of the IDs in both tables
 
+![](EMPLOYEEINFODATATYPETOVAR.PNG)
+
+![](EMPLOYEESALARYDATATYPETOVAR.PNG)
 
 -Run a query to return the YEAR, MONTH and DAY each employee came into the company
 
@@ -35,7 +38,9 @@ Change the DATA_TYPE of the IDs in both tables
 
 ![](EMPLOYEEINFO(10YEARSTOYEAROFEXITCOLUMN).PNG)
 
-UP
+update your table with the new column YEAR_OF_EXIT
+
+![](UPDATEYOURTABLE.PNG)
 
 
  
